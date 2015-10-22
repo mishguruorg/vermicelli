@@ -1,6 +1,6 @@
 {
   "name": "vermicelli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of test helpers to save a few commonly used testing patterns",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/mishguruorg/vermicelli"
   },
-  "keywords": ["mocha chai proxyquire vermicelli"],
+  "keywords": [
+    "mocha chai proxyquire vermicelli"
+  ],
   "author": "Mish Guru <dev@mish.guru>",
   "bugs": {
     "url": "https://github.com/mishguruorg/vermicelli/issues"
